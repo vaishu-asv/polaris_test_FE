@@ -117,7 +117,7 @@ left: 432.0px;
 border-radius: 2.0px; background-color: rgba(255, 232, 229, 1.0);
  cursor: pointer;
 
-}
+border: none;}
 
 .vector-15-177{
 position: relative; width: 18.0px; height: 18.0}
@@ -134,7 +134,7 @@ left: 466.0px;
 border-radius: 2.0px; background-color: rgba(222, 252, 235, 1.0);
  cursor: pointer;
 
-}
+border: none;}
 
 .text-15-179{
 position: absolute;
@@ -143,34 +143,6 @@ left: 20.0px;
  width: 481.0px;
  height: 63.0px;
 font-size: 11.0px; color: rgba(23, 23, 54, 1.0); font-family: Gilroy-Regular; font-weight: 400;
-}
-
-.btn-15-180{
-position: absolute;
- display: flex;
-justify-content: center;
-align-items: center;
-left: 20.0px;
- top: 121.0px;
- width: 68.0px;
- height: 25.0px;
-border-radius: 2.0px; background-color: rgba(34, 52, 132, 1.0);
- cursor: pointer;
-font-size: 10.0px; color: rgba(255, 255, 255, 1.0); font-family: Gilroy-Bold; text-transform: uppercase; font-weight: 400;
-}
-
-.btn-15-183{
-position: absolute;
- display: flex;
-justify-content: center;
-align-items: center;
-left: 100.0px;
- top: 125.0px;
- width: 102.709716796875px;
- height: 17.11111068725586px;
-border-radius: 12.0px; background-color: rgba(255, 255, 255, 1);
- cursor: pointer;
-font-size: 11.0px; color: rgba(34, 52, 132, 1.0); font-family: Gilroy-Regular; text-transform: uppercase; font-weight: 400;
 }
 
 .text-15-186{
@@ -212,21 +184,7 @@ left: 20.0px;
 font-size: 11.0px; color: rgba(23, 23, 54, 1.0); font-family: Gilroy-Regular; font-weight: 400;
 }
 
-.btn-15-193{
-position: absolute;
- display: flex;
-justify-content: center;
-align-items: center;
-left: 20.0px;
- top: 121.0px;
- width: 68.0px;
- height: 25.0px;
-border-radius: 2.0px; background-color: rgba(34, 52, 132, 1.0);
- cursor: pointer;
-font-size: 10.0px; color: rgba(255, 255, 255, 1.0); font-family: Gilroy-Bold; text-transform: uppercase; font-weight: 400;
-}
-
-.btn-15-196{
+.btn-viewallreplies-196{
 position: absolute;
  display: flex;
 justify-content: center;
@@ -238,7 +196,7 @@ left: 100.0px;
 border-radius: 12.0px; background-color: rgba(255, 255, 255, 1);
  cursor: pointer;
 font-size: 11.0px; color: rgba(34, 52, 132, 1.0); font-family: Gilroy-Regular; text-transform: uppercase; font-weight: 400;
-}
+border: none;}
 
 .text-15-199{
 position: absolute;
@@ -285,7 +243,7 @@ left: 420.0px;
  background-color: rgba(255, 255, 255, 1);
  cursor: pointer;
 
-}
+border: none;}
 
 .vector-15-231{
 position: relative; width: 37.0px; height: 28.0}
@@ -302,4 +260,4 @@ left: 466.0px;
  background-color: rgba(255, 255, 255, 1);
  cursor: pointer;
 
-}
+border: none;}
